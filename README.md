@@ -6,7 +6,7 @@ Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos m�
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas con experiencia
 
 - **Lenguajes de Programación:**
   - Kotlin

@@ -21,7 +21,7 @@ Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos m�
 ---
 
 ## 🔗 Encuéntrame en
-- [https://img.shields.io/badge/Facebook-3380ff](https://www.facebook.com/joffree.mauricio.3)
+- https://img.shields.io/badge/Facebook-3380ff(https://www.facebook.com/joffree.mauricio.3)
 - [Instagram](https://twitter.com/)
 - [Portafolio](https://tu-portfolio.com)
 

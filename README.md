@@ -8,37 +8,20 @@ Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos m�
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes de Programación:**
-  - Kotlin
-  - Java
-  - PHP (Laravel)
-  - Python
+- **Lenguajes de Programación:**          - **Mobile Development:**            - **Backend & Bases de Datos:**
+  - Kotlin                                  - Jetpack Compose                    - Laravel
+  - Java                                    - XML                                - Firebase
+  - PHP (Laravel)                           - Play Store Console                 - MySQL
+  - Python                                  - AdMob                              - SQL Server
   - JavaScript
-  - SQL
+  - SQL  
 
-- **Mobile Development:**
-  - Jetpack Compose
-  - XML
-  - Play Store Console
-  - AdMob
-
-- **Backend & Bases de Datos:**
-  - Laravel
-  - Firebase
-  - MySQL
-  - SQL Server
-
-- **Frontend:**
-  - HTML
-  - CSS
-  - JavaScript
-
-- **Herramientas:**
-  - Git (GitHub / GitLab)
-  - Linux
-  - Adobe Photoshop
-  - Miro
-
+- **Frontend:**                           - **Herramientas:**
+  - HTML                                    - Git (GitHub / GitLab)
+  - CSS                                     - Linux
+  - JavaScript                              - Adobe Photoshop
+                                            - Miro
+  
 ---
 
 ## 📂 Proyectos Destacados

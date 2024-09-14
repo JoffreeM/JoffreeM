@@ -1,16 +1,43 @@
 # 👋 Hola, soy J-Mauricio!
 
-### Desarrollador Junior en Kotlin | Apasionado por el Desarrollo de Aplicaciones Móviles
+### Desarrollador en Kotlin | Apasionado por el Desarrollo de Aplicaciones Móviles
 
 Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos móviles con **Jetpack Compose**. Mi experiencia incluye la creación de aplicaciones escalables y eficientes, integrando servicios como **Firebase** y **Firestore**, además del desarrollo backend.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Kotlin, Java, SQL
-- **Mobile Development:** Android, Jetpack Compose, WorkManager
-- **Backend:** Ktor, Firebase, Firestore, APIs RESTful
-- **Otros:** Git, GitHub, FCM (Firebase Cloud Messaging)
+
+- **Lenguajes de Programación:**
+  - Kotlin
+  - Java
+  - PHP (Laravel)
+  - Python
+  - JavaScript
+  - SQL
+
+- **Mobile Development:**
+  - Jetpack Compose
+  - XML
+  - Play Store Console
+  - AdMob
+
+- **Backend & Bases de Datos:**
+  - Laravel
+  - Firebase
+  - MySQL
+  - SQL Server
+
+- **Frontend:**
+  - HTML
+  - CSS
+  - JavaScript
+
+- **Herramientas:**
+  - Git (GitHub / GitLab)
+  - Linux
+  - Adobe Photoshop
+  - Miro
 
 ---
 
@@ -20,8 +47,14 @@ Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos m�
 
 ---
 
+## 🚀 Experiencia
+
+He trabajado en varios proyectos que incluyen desarrollo móvil y backend. Mi enfoque ha sido la creación de aplicaciones móviles usando **Jetpack Compose**, gestión de base de datos y el uso de APIs. Además, tengo experiencia en la integración de **Firebase** para autenticación y notificaciones push, y en la monetización de aplicaciones mediante **AdMob**.
+
+---
+
 ## 🔗 Encuéntrame en
-- https://img.shields.io/badge/Facebook-3380ff(https://www.facebook.com/joffree.mauricio.3)
+- [Facebook](https://www.facebook.com/joffree.mauricio.3)
 - [Instagram](https://twitter.com/)
 - [Portafolio](https://tu-portfolio.com)
 

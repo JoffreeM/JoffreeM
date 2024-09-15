@@ -2,7 +2,7 @@
 
 ### Desarrollador en Kotlin | Apasionado por el Desarrollo de Aplicaciones Móviles
 
-Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos móviles con **Jetpack Compose**. Mi experiencia incluye la creación de aplicaciones escalables y eficientes, integrando servicios como **Firebase** y **Firestore**, además del desarrollo backend.
+Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos móviles con **Jetpack Compose** bajo el patrón arquitectónico **MVVM (Model-View-ViewModel)** para mantener mis proyectos estructurados, escalables y mantenibles. Mi experiencia incluye la creación de aplicaciones escalables y eficientes, integrando servicios como **Firebase** y **Firestore**, además del desarrollo backend y despliegue en la **Play Store**.
 
 ---
 
@@ -42,11 +42,6 @@ Soy un desarrollador con enfoque en Kotlin y me encanta trabajar en proyectos m�
 He trabajado en varios proyectos que incluyen desarrollo móvil y backend. Mi enfoque ha sido la creación de aplicaciones móviles usando **Jetpack Compose**, gestión de base de datos y el uso de APIs. Además, tengo experiencia en la integración de **Firebase** para autenticación y notificaciones push, y en la monetización de aplicaciones mediante **AdMob**.
 
 ---
-
-## 📊 GitHub Analytics
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JoffreeM&layout=compact&theme=radical)
-
 
 ## 🔗 Encuéntrame en
 - [Facebook](https://www.facebook.com/joffree.mauricio.3)

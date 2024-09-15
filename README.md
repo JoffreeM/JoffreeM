@@ -46,7 +46,7 @@ He trabajado en varios proyectos que incluyen desarrollo móvil y backend. Mi en
 ## 🔗 Encuéntrame en
 - [Facebook](https://www.facebook.com/joffree.mauricio.3)
 - [Instagram](https://twitter.com/)
-- [Portafolio](https://tu-portfolio.com)
+- [Portafolio](https://jokzaga.mnz.dom.my.id/)
 
 ---
 

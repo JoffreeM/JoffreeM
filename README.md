@@ -10,28 +10,50 @@ Mi experiencia abarca desde el diseño de apps nativas y multiplataforma, integr
 
 ## 🛠️ Tecnologías y Herramientas
 
-![Kotlin](https://badgen.net/badge/Lenguaje/Kotlin/purple)
-![Kotlin Multiplatform](https://badgen.net)
-![Compose Multiplatform](https://badgen.net)
-![Jetpack Compose](https://badgen.net/badge/Framework/Jetpack%20Compose/blue)
-![Java](https://badgen.net/badge/Lenguaje/Java/orange) 
-![PHP (Laravel)](https://badgen.net/badge/Lenguaje/PHP%20(Laravel)/blue)
-![Python](https://badgen.net/badge/Lenguaje/Python/green)
-![JavaScript](https://badgen.net/badge/Lenguaje/JavaScript/yellow)
-![SQL](https://badgen.net/badge/Lenguaje/SQL/cyan)
-![XML](https://badgen.net/badge/Markup/XML/lightblue)
-![Play Store Console](https://badgen.net/badge/Distribución/Play%20Store%20Console/green)
-![AdMob](https://badgen.net/badge/Monetización/AdMob/red)
-![Laravel](https://badgen.net/badge/Framework/Laravel/red)
-![Firebase](https://badgen.net/badge/Backend/Firebase/yellow)
-![MySQL](https://badgen.net/badge/Base%20de%20Datos/MySQL/cyan)
-![SQL Server](https://badgen.net/badge/Base%20de%20Datos/SQL%20Server/purple)
-![HTML](https://badgen.net/badge/Frontend/HTML/orange)
-![CSS](https://badgen.net/badge/Frontend/CSS/blue)
-![Git (GitHub / GitLab)](https://badgen.net/badge/Control%20de%20Versiones/GitHub%20-%20GitLab/black)
-![Linux](https://badgen.net/badge/Sistema%20Operativo/Linux/gray)
-![Adobe Photoshop](https://badgen.net/badge/Diseño/Photoshop/blue)
-![Miro](https://badgen.net/badge/Colaboración/Miro/pink)
+**Lenguajes**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=flat&logo=xml&logoColor=white)
+
+**Kotlin Multiplatform & UI**
+
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+
+**Backend & Cloud**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Bases de Datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=white)
+
+**Distribución & Monetización**
+
+![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-414141?style=flat&logo=googleplay&logoColor=white)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat&logo=googleadmob&logoColor=white)
   
 ---
 
